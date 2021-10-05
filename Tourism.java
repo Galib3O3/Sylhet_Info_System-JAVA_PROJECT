@@ -15,7 +15,7 @@ class Tourism{
         System.out.println("Way to Reach the Destination:You have to take the rickshaw or the automatic CNG rickshaw and head towards Dargah Mahallah from Sylhet Sadar.\nHow to get there: Sylhet Distric:There are three types of transportation modes available to Sylhet from Dhaka. You can get there by bus, train or plane.");
       //  System.out.println("Explore:Sha Jalal's Mazar, Jalali Kobutor, Gozar Mach(Fish)");
         System.out.println("Best Time To Travel: 365 days you can visit ");
-        System.out.println("Cordinate:24.902464058107388, 91.86593847988624");
+        System.out.println("Cordinate:24.902464058107388, 91.86593847988624"); //Galib edited
     //    System.out.println("-----------------");
 
         	System.out.println("2. Lalakhal");
@@ -26,7 +26,7 @@ class Tourism{
                 "There is a boat station in Sarighat operated by Nazimgarh Resort.Different types of mechanised boats can be hired from there to travel to Lalakhal.");
      //   System.out.println("Explore:The beauty of nature");
         System.out.println("Best Time To Travel: June to Spetember");
-        System.out.println("Cordiante:25.107168064805492, 92.17666622377611");
+        System.out.println("Cordiante:25.107168064805492, 92.17666622377611"); //Galib edited
 		
 		
 		
@@ -135,5 +135,30 @@ class Tourism{
 		System.out.println("Coordinates:");
 		System.out.println("24.9570° N, 91.9344° E");
 		System.out.println("");
+		//System.out.println("Lakkatura Tea Garden ");
+	System.out.println("Lakkatura Tea Garden ");
+        System.out.println("Discription: SYLHET, IN THE NORTHEAST OF BANGLADESH, is renowned for the beauty of its tea gardens, and among the lot, Lakkatura is considered the most scenic. It is also one of the largest tea gardens in the country, covering a total of 3,200 acres. This estate was officially established in 1875, and it now produces an astounding 550 tons of tea each year. ");
+        System.out.println("Place: Lakkatura Sylhet ");
+        System.out.println("."); //Galib edited
+      
+        System.out.println("Best Time To Travel: 365 days you can visit ");
+        System.out.println("Coordinate:24.92792404416728, 91.87672552016147");
+    //    System.out.println("-----------------");
+
+            System.out.println("Madhobkunda waterfall");
+        System.out.println("Discription:During a hunting expedition in the Patharia hills, Raja Govardhan of Gour (reigned 1250–1260) wished to establish a resting place for the benefit of travellers. He came across a monk by the name of Madhabeshwar meditating under a waterfall. In respect of the monk, the waterfall was called Madhabkunda waterfall.");
+        System.out.println("Place: Kulaura  Upozilla");
+        System.out.println("Best Time To Travel: March To Octobor");
+     //   System.out.println("Explore:The beauty of nature");
+        System.out.println("Cordiante:24.63818305626906, 92.2241630635822"); //Galib edited
+
+
+         System.out.println("Shimul Bagan");
+        System.out.println("Discription:Shimul Bagan is a garden in Manigaon village in Tahirpur Upazila of Sunamganj district. In 2002, the former chairman of the Union Parishad at that time planted Shimul trees on an average of 2,400 acres of land along the Jadukata river");
+        System.out.println("Place: Shunamhonj");
+        System.out.println("Best Time To Travel:Octobor-February");
+     //   System.out.println("Explore:The beauty of nature");
+        System.out.println("Cordiante:25.177926834716708, 91.24737822958228"); //Galib edited
+
 	}
 }
